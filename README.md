@@ -1,6 +1,6 @@
 # 🌱 EcoRoute
 
-### Real-time cost-efficient routing with carbon impact insights
+### Real-time cost-efficient routing with carbon impact insights.
 
 ---
 
